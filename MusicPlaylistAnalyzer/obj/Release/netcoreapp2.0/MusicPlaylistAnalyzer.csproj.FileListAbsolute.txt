@@ -1,0 +1,10 @@
+/Users/alexcaskey/Projects/MusicPlaylistAnalyzerSolution/MusicPlaylistAnalyzer/bin/Release/netcoreapp2.0/MusicPlaylistAnalyzer.deps.json
+/Users/alexcaskey/Projects/MusicPlaylistAnalyzerSolution/MusicPlaylistAnalyzer/bin/Release/netcoreapp2.0/MusicPlaylistAnalyzer.runtimeconfig.json
+/Users/alexcaskey/Projects/MusicPlaylistAnalyzerSolution/MusicPlaylistAnalyzer/bin/Release/netcoreapp2.0/MusicPlaylistAnalyzer.runtimeconfig.dev.json
+/Users/alexcaskey/Projects/MusicPlaylistAnalyzerSolution/MusicPlaylistAnalyzer/bin/Release/netcoreapp2.0/MusicPlaylistAnalyzer.dll
+/Users/alexcaskey/Projects/MusicPlaylistAnalyzerSolution/MusicPlaylistAnalyzer/bin/Release/netcoreapp2.0/MusicPlaylistAnalyzer.pdb
+/Users/alexcaskey/Projects/MusicPlaylistAnalyzerSolution/MusicPlaylistAnalyzer/obj/Release/netcoreapp2.0/MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+/Users/alexcaskey/Projects/MusicPlaylistAnalyzerSolution/MusicPlaylistAnalyzer/obj/Release/netcoreapp2.0/MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+/Users/alexcaskey/Projects/MusicPlaylistAnalyzerSolution/MusicPlaylistAnalyzer/obj/Release/netcoreapp2.0/MusicPlaylistAnalyzer.AssemblyInfo.cs
+/Users/alexcaskey/Projects/MusicPlaylistAnalyzerSolution/MusicPlaylistAnalyzer/obj/Release/netcoreapp2.0/MusicPlaylistAnalyzer.dll
+/Users/alexcaskey/Projects/MusicPlaylistAnalyzerSolution/MusicPlaylistAnalyzer/obj/Release/netcoreapp2.0/MusicPlaylistAnalyzer.pdb

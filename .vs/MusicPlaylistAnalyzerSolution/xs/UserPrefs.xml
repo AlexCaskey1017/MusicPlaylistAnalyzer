@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F7355E94-DFE5-4F4D-9B40-DE581ED1020A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MusicPlaylistAnalyzer/Program.cs">
+    <Files>
+      <File FileName="MusicPlaylistAnalyzer/Program.cs" Line="40" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MusicPlaylistAnalyzer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

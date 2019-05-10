@@ -1,0 +1,32 @@
+Music Playlist Report
+
+
+Songs with 200 or more plays: 
+ 
+Losing Touch
+Tranquilize (Feat. Lou Reed)
+"Ruby, Don't Take Your Love to Town"
+
+How many songs are in the playlist with the Genre of 'Alternative'?: 39
+ 
+
+How many songs are in the playlist with the Genre of 'Hip-Hop/Rap'?: 382
+ 
+
+What songs are in the playlist from the album Welcome to the Fishbowl?: 
+ 
+Come Over
+Feel like a Rock Star (with Tim McGraw)
+Welcome to the Fishbowl
+
+What are the songs in the playlist from before 1970?: 
+ 
+"Hello, I Love You"
+
+What are the song names that are more than 85 characters long?: 
+ 
+"Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)"
+
+What is the longest song?: 
+ 
+"Devil, Devil (Prelude: Princess of Darkness)"
